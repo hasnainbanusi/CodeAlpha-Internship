@@ -1,0 +1,9 @@
+# Private keys and secrets
+*.pem
+jenkins_agent_key
+id_rsa
+id_ed25519
+.env
+.env.*
+credentials.xml
+secrets/
